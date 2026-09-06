@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(bash .specify/scripts/bash/resolve-template.sh constitution-template --json)",
-      "Bash(bash .specify/scripts/bash/setup-plan.sh --json)"
+      "Bash(bash .specify/scripts/bash/setup-plan.sh --json)",
+      "Bash(bash .specify/scripts/bash/setup-tasks.sh --json)"
     ]
   }
 }
